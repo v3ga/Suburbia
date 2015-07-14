@@ -21,12 +21,6 @@ import toxi.processing.*;
 import toxi.math.*;
 import codeanticode.glgraphics.*;
 import javax.media.opengl.*;
-import org.qscript.eventsonfire.*;
-import org.qscript.events.*;
-import org.qscript.editor.*;
-import org.qscript.*;
-import org.qscript.operator.*;
-import org.qscript.errors.*;
 
 
 // --------------------------------------------------
